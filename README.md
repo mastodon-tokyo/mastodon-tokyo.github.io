@@ -1,1 +1,1 @@
-# mastodon-tokyo.github.io
+# blog.mastodon.tokyo
